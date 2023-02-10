@@ -1,5 +1,5 @@
 # ProjectDiskominfo
-Pembuatan Website Kelurahan Kota Surakarta Project dari DISKOMINFO Kota Surakarta yang bertujuan untuk memberikan informasi dan layanan bagi masyarakat yang tinggal di kelurahan terkait.
+Pembuatan Website Kelurahan Kota Surakarta ini merupakan Project dari DISKOMINFO Kota Surakarta yang bertujuan untuk memberikan informasi dan layanan bagi masyarakat yang tinggal di kelurahan terkait.
 
 ## List 
 1. [`Kelurahan Manahan`](https://kel-manahan.surakarta.go.id)
