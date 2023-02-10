@@ -9,6 +9,7 @@ Pembuatan Website Kelurahan Kota Surakarta ini merupakan Project dari DISKOMINFO
 
 ## Website
 Kelurahan Joglo
-![img](https://user-images.githubusercontent.com/71810571/218044949-e67a62cf-446a-48be-95f0-84e41511121b.JPG)
+(![img](https://user-images.githubusercontent.com/71810571/218051443-d1657a85-12a5-49a0-92cb-8a616cf6fadc.JPG)
+
 
 Dibuat Menggunakan Wordpress dengan plugin Elementor
