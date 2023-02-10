@@ -8,7 +8,7 @@ Pembuatan Website Kelurahan Kota Surakarta Project dari DISKOMINFO Kota Surakart
 4. [`Kelurahan Kepatihan Wetan`](https://kel-kepatihanwetan.surakarta.go.id)
 
 ## Website
-![Kelurahan Manahan]
+Kelurahan Manahan
 ![img](https://user-images.githubusercontent.com/71810571/218044949-e67a62cf-446a-48be-95f0-84e41511121b.JPG)
 
 Dibuat Menggunakan Wordpress dengan plugin Elementor
