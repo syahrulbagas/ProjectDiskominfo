@@ -4,8 +4,9 @@ Pembuatan Website Kelurahan Kota Surakarta ini merupakan Project dari DISKOMINFO
 ## Website 
 1. [`Kelurahan Joglo`](https://kel-joglo.surakarta.go.id)
 2. [`Kelurahan Sudiroprajan`](https://kel-sudiroprajan.surakarta.go.id)
-3. [`Kelurahan Manahan`](https://kel-manahan.surakarta.go.id)
-4. [`Kelurahan Kepatihan Wetan`](https://kel-kepatihanwetan.surakarta.go.id)
+3. [`Kelurahan Pajang`](https://kel-pajang.surakarta.go.id)
+4. [`Kelurahan Manahan`](https://kel-manahan.surakarta.go.id)
+5. [`Kelurahan Kepatihan Wetan`](https://kel-kepatihanwetan.surakarta.go.id)
 
 ## Preview
 Kelurahan Joglo
